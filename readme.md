@@ -12,3 +12,7 @@ The fleet is comprised of the following ships:
 - Two cruisers, each occupying 3 squares
 - Three destroyers, each occupying 2 squares
 - Four submarines, each occupying 1 square
+
+## How to play
+
+Run the file 'battleships_game.py'
