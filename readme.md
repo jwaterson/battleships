@@ -15,4 +15,4 @@ The fleet is comprised of the following ships:
 
 ## How to play
 
-Run the file 'battleships_game.py'
+Clone the repo to your local machine and run the file, 'battleships_game.py'
